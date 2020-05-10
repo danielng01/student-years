@@ -1,0 +1,78 @@
+﻿Build started 2/7/2015 12:02:06 PM.
+     1>Project "C:\Users\daniel\Desktop\Sound Busters\Server\VisualStudio\MasterServer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Dev\VS\VisualStudio2013\VC\bin\CL.exe /c /I../RakNet/Sources /I../ /I../Common /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _CONSOLE /D UNITY_MASTERSERVER /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\MasterServer.cpp
+         MasterServer.cpp
+       Link:
+         D:\Dev\VS\VisualStudio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\MasterServer.exe" /INCREMENTAL /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\MasterServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Debug\MasterServer.lib" /MACHINE:X86 /SAFESEH Debug\MasterServer.obj
+         Debug\Log.obj
+         Debug\Utility.obj
+         Debug\_FindFirst.obj
+         Debug\AsynchronousFileIO.obj
+         Debug\BigInt.obj
+         Debug\BitStream.obj
+         Debug\BitStream_NoTemplate.obj
+         Debug\CCRakNetUDT.obj
+         Debug\CheckSum.obj
+         Debug\CommandParserInterface.obj
+         Debug\ConnectionGraph.obj
+         Debug\ConsoleServer.obj
+         Debug\DataBlockEncryptor.obj
+         Debug\DataCompressor.obj
+         Debug\DirectoryDeltaTransfer.obj
+         Debug\DS_BytePool.obj
+         Debug\DS_ByteQueue.obj
+         Debug\DS_HuffmanEncodingTree.obj
+         Debug\DS_Table.obj
+         Debug\EmailSender.obj
+         Debug\EncodeClassName.obj
+         Debug\ExtendedOverlappedPool.obj
+         Debug\FileList.obj
+         Debug\FileListTransfer.obj
+         Debug\FileOperations.obj
+         Debug\GetTime.obj
+         Debug\gettimeofday.obj
+         Debug\Itoa.obj
+         Debug\LightweightDatabaseCommon.obj
+         Debug\LightweightDatabaseServer.obj
+         Debug\LinuxStrings.obj
+         Debug\MessageFilter.obj
+         Debug\NetworkIDManager.obj
+         Debug\PacketFileLogger.obj
+         Debug\PacketLogger.obj
+         Debug\PluginInterface2.obj
+         Debug\RakMemoryOverride.obj
+         Debug\RakNetCommandParser.obj
+         Debug\RakNetSocket.obj
+         Debug\RakNetStatistics.obj
+         Debug\RakNetTransport.obj
+         Debug\RakNetTypes.obj
+         Debug\RakNetworkFactory.obj
+         Debug\RakPeer.obj
+         Debug\RakSleep.obj
+         Debug\RakString.obj
+         Debug\RakThread.obj
+         Debug\Rand.obj
+         Debug\ReliabilityLayer.obj
+         Debug\rijndael.obj
+         Debug\Router.obj
+         Debug\RPCMap.obj
+         Debug\RSACrypt.obj
+         Debug\SHA1.obj
+         Debug\SignaledEvent.obj
+         Debug\SimpleMutex.obj
+         Debug\SocketLayer.obj
+         Debug\StringCompressor.obj
+         Debug\StringTable.obj
+         Debug\SuperFastHash.obj
+         Debug\SystemAddressList.obj
+         Debug\TableSerializer.obj
+         Debug\TCPInterface.obj
+         Debug\ThreadsafePacketLogger.obj
+         Debug\WSAStartupSingleton.obj
+         MasterServer.vcxproj -> C:\Users\daniel\Desktop\Sound Busters\Server\VisualStudio\Debug\MasterServer.exe
+     1>Done Building Project "C:\Users\daniel\Desktop\Sound Busters\Server\VisualStudio\MasterServer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.62
