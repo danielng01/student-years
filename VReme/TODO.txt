@@ -1,0 +1,4 @@
+- Napravete audio i go napravete spatial
+- Иконка 
+- Описание за Play Store
+- Ontotex open-data
