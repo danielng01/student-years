@@ -1,0 +1,5 @@
+Art
+1. 5 characters
+2. 5 monsters
+3. 5 platforms
+4. 5 backgrounds

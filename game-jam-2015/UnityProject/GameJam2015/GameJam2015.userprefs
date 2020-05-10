@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Prefabs\Movie\movie.cs">
+    <Files>
+      <File FileName="Assets\Prefabs\Movie\movie.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Scripts\PlayerHealth.cs" line="63" offsetX="-170" offsetY="908" expression="			// ... and if the time exceeds the time of the last hit plus the time between hits...&#xA;			if (Time.time &gt; lastHitTime + repeatDamagePeriod) &#xA;			{&#xA;				// ... and if the player still has health...&#xA;				if(health &gt; 0f)&#xA;				{&#xA;					// ... take damage and reset the lastHitTime.&#xA;					TakeDamage(col.transform); &#xA;					lastHitTime = Time.time; &#xA;				}&#xA;				// If the player doesn't have health, do some stuff, let him fall into the river to reload the level.&#xA;				else&#xA;				{&#xA;					// Find all of the colliders on the gameobject and set them all to be triggers.&#xA;					Collider2D[] cols = GetComponents&lt;Collider2D&gt;();&#xA;					foreach(Collider2D c in cols)&#xA;					{&#xA;						c.isTrigger = true;&#xA;					}&#xA;&#xA;					// Move all sprite parts of the player to the front&#xA;					SpriteRenderer[] spr = GetComponentsInChildren&lt;SpriteRenderer&gt;();&#xA;					foreach(SpriteRenderer s in spr)&#xA;					{&#xA;						s.sortingLayerName = &quot;UI&quot;;&#xA;					}&#xA;&#xA;					// ... disable user Player Control script&#xA;					GetComponent&lt;PlayerControl&gt;().enabled = false;&#xA;&#xA;					// ... disable the Gun script to stop a dead guy shooting a nonexistant bazooka&#xA;					GetComponentInChildren&lt;Gun&gt;().enabled = false;&#xA;&#xA;					// ... Trigger the 'Die' animation state&#xA;					anim.SetTrigger(&quot;Die&quot;);&#xA;				}&#xA;			}" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
