@@ -1,0 +1,9 @@
+down left - 7
+left - 11
+upper left corner - 1
+up - 20
+upper right corner - 1
+right - 11
+down right - 7
+
+общо: 57
