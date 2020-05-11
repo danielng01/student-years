@@ -1,0 +1,1147 @@
+﻿Log file open, 01/21/17 13:54:10
+LogInit:Display: Running engine for game: Wulna
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1825046896) SRandInit(-1825046896).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.075584
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.21-11.54.11:395][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.21-11.54.11:395][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.21-11.54.11:534][  0]LogInit: Computer: EXCELION-LP
+[2017.01.21-11.54.11:534][  0]LogInit: User: Excelion
+[2017.01.21-11.54.11:534][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.21-11.54.11:534][  0]LogInit: High frequency timer resolution =2.208046 MHz
+[2017.01.21-11.54.11:534][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.01.21-11.54.11:534][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.21-11.54.11:534][  0]LogMemory: Process Physical Memory: 264.01 MB used, 264.01 MB peak
+[2017.01.21-11.54.11:535][  0]LogMemory: Process Virtual Memory: 263.99 MB used, 263.99 MB peak
+[2017.01.21-11.54.11:535][  0]LogMemory: Physical Memory: 2748.58 MB used,  1199.97 MB free, 3948.55 MB total
+[2017.01.21-11.54.11:535][  0]LogMemory: Virtual Memory: 660.42 MB used,  1199.97 MB free, 8388608.00 MB total
+[2017.01.21-11.54.12:566][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.01.21-11.54.13:989][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.21-11.54.13:999][  0]LogD3D11RHI:    0. 'ATI Mobility Radeon HD 5730' (Feature Level 11_0)
+[2017.01.21-11.54.13:999][  0]LogD3D11RHI:       1014/0/1718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.01.21-11.54.13:999][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.21-11.54.14:007][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.21-11.54.14:007][  0]LogD3D11RHI:     GPU DeviceId: 0x68c0 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.21-11.54.14:007][  0]LogWindows: EnumDisplayDevices:
+[2017.01.21-11.54.14:007][  0]LogWindows:    0. 'ATI Mobility Radeon HD 5730' (P:0 D:1)
+[2017.01.21-11.54.14:008][  0]LogWindows:    1. 'ATI Mobility Radeon HD 5730' (P:1 D:1)
+[2017.01.21-11.54.14:008][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2017.01.21-11.54.14:008][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.01.21-11.54.14:008][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.01.21-11.54.14:008][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid GetVideoDriverDetailsInvalid GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2017.01.21-11.54.14:008][  0]LogD3D11RHI:     Adapter Name: ATI Mobility Radeon HD 5730
+[2017.01.21-11.54.14:008][  0]LogD3D11RHI:   Driver Version: 8.692.1.0 (internal:8.692.1.0, unified:8.692.1.0)
+[2017.01.21-11.54.14:008][  0]LogD3D11RHI:      Driver Date: 1-22-2010
+[2017.01.21-11.54.14:008][  0]LogRHI: Texture pool is 710 MB (70% of 1014 MB)
+[2017.01.21-11.54.14:015][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.21-11.54.14:032][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.01.21-11.54.16:283][  0]LogShaderCompilers: Guid format shader working directory is 33 characters bigger than the processId version (D:/Gamejam/Wulna/Intermediate/Shaders/WorkingDirectory/9624/).
+[2017.01.21-11.54.16:283][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Excelion/AppData/Local/Temp/UnrealShaderWorkingDir/F1310D884329EB007085E4ABEE602447/'.
+[2017.01.21-11.54.16:283][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.21-11.54.20:405][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.21-11.54.20:518][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.21-11.54.20:637][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.21-11.54.20:756][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.21-11.54.20:865][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.21-11.54.20:988][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.21-11.54.21:139][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.21-11.54.21:248][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.21-11.54.21:327][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.21-11.54.21:427][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.21-11.54.21:540][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.21-11.54.21:651][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.21-11.54.21:744][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.21-11.54.21:851][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.21-11.54.21:957][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.21-11.54.22:144][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.21-11.54.22:144][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.21-11.54.22:201][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.21-11.54.22:331][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.21-11.54.22:393][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.21-11.54.22:487][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.21-11.54.22:594][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.21-11.54.22:695][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.21-11.54.22:820][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.21-11.54.22:820][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.21-11.54.23:425][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.21-11.54.23:531][  0]LogDerivedDataCache: Loaded boot cache 0.11s 50MB C:/Users/Excelion/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.21-11.54.23:531][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Excelion/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.21-11.54.23:531][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Gamejam/Wulna/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.21-11.54.23:531][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.21-11.54.23:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Gamejam/Wulna/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.21-11.54.23:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.21-11.54.23:573][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.21-11.54.23:585][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Excelion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.21-11.54.23:996][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.21-11.54.24:005][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.21-11.54.24:384][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.21-11.54.24:450][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.21-11.54.24:518][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.21-11.54.24:518][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.21-11.54.24:518][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.21-11.54.25:524][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: wulna, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3414250591
+[2017.01.21-11.54.25:612][  0]LogAssetRegistry: FAssetRegistry took 0.0199 seconds to start up
+[2017.01.21-11.54.25:784][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.125514 seconds
+[2017.01.21-11.54.25:796][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.21-11.54.25:796][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.21-11.54.25:796][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.21-11.54.25:892][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.21-11.54.27:210][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.21-11.54.27:211][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.21-11.54.27:212][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.21-11.54.28:681][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.21-11.54.28:737][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.21-11.54.29:245][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.21-11.54.29:883][  0]SourceControl: Info Source control is disabled
+[2017.01.21-11.54.29:908][  0]SourceControl: Info Source control is disabled
+[2017.01.21-11.54.29:977][  0]SourceControl: Info Source control is disabled
+[2017.01.21-11.54.30:045][  0]SourceControl: Info Source control is disabled
+[2017.01.21-11.54.31:999][  0]LogEngine: Initializing Engine...
+[2017.01.21-11.54.32:000][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.21-11.54.32:445][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.21-11.54.32:488][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.21-11.54.32:550][  0]LogInit: FAudioDevice initialized.
+[2017.01.21-11.54.32:597][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/Excelion/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.21-11.54.32:610][  0]LogInit: Texture streaming: Enabled
+[2017.01.21-11.54.32:900][  0]LogInit: Transaction tracking system initialized
+[2017.01.21-11.54.33:442][  0]BlueprintLog: New page: Editor Load
+[2017.01.21-11.54.34:797][  0]LocalizationService: Info Localization service is disabled
+[2017.01.21-11.54.35:801][  0]LogConsoleResponse:Display: 
+[2017.01.21-11.54.36:118][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.21-11.54.36:118][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.21-11.54.36:860][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Content/' took 0.02s
+[2017.01.21-11.54.37:567][  0]SourceControl: Info Source control is disabled
+[2017.01.21-11.54.37:568][  0]Cmd: MAP LOAD FILE="D:/Gamejam/Wulna/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.21-11.54.37:568][  0]LogEditorServer:Warning: Can't find file 'D:/Gamejam/Wulna/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.21-11.54.37:568][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.21-11.54.37:625][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 57.352ms to complete.
+[2017.01.21-11.54.37:625][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.058
+[2017.01.21-11.54.38:100][  0]LogCollectionManager: Loaded 0 collections in 0.002276 seconds
+[2017.01.21-11.54.38:282][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Saved/Collections/' took 0.01s
+[2017.01.21-11.54.38:282][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Content/Developers/Excelion/Collections/' took 0.01s
+[2017.01.21-11.54.38:282][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Content/Collections/' took 0.01s
+[2017.01.21-11.54.38:282][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.01.21-11.54.38:319][  0]LogContentBrowser: Native class hierarchy populated in 0.0331 seconds. Added 2190 classes and 428 folders.
+[2017.01.21-11.54.38:423][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.21-11.54.38:430][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.007 s
+[2017.01.21-11.54.38:436][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0046 seconds. Added 13 classes and 0 folders.
+[2017.01.21-11.54.38:567][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.01.21-11.54.39:710][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.01.21-11.54.39:834][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.01.21-11.54.40:015][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.21-11.54.40:065][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.21-11.54.40:186][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.01.21-11.54.40:186][  0]LogLoad: (Engine Initialization) Total time: 33.99 seconds
+[2017.01.21-11.54.40:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.06 seconds
+[2017.01.21-11.54.40:186][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.01.21-11.54.40:527][  0]LogOcInput: OculusInput pre-init called
+[2017.01.21-11.54.40:615][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.01.21-11.54.41:249][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2017.01.21-11.54.42:716][  4]LogAssetRegistry: Asset discovery search completed in 17.1242 seconds
+[2017.01.21-11.54.42:717][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.01.21-11.54.42:717][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2017.01.21-11.55.27:029][745]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.21-11.55.27:178][745]Cmd: MAP LOAD FILE="D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.21-11.55.27:178][745]LightingResults: New page: Lighting Build
+[2017.01.21-11.55.27:244][745]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0009 seconds. Added 5 classes and 0 folders.
+[2017.01.21-11.55.27:245][745]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2017.01.21-11.55.27:246][745]MapCheck: New page: Map Check
+[2017.01.21-11.55.27:246][745]LightingResults: New page: Lighting Build
+[2017.01.21-11.55.27:336][745]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.21-11.55.27:408][745]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.21-11.55.27:476][745]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 67.951ms to complete.
+[2017.01.21-11.55.27:476][745]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.306
+[2017.01.21-11.55.35:228][887]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.01.21-11.55.35:946][903]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Wulna
+
+[2017.01.21-11.55.35:946][903]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.21-11.55.35:946][903]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.01.21-11.55.35:946][903]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.21-11.55.35:968][904]LogTemp:Display: BranchPath = EXCELION-LP/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = EXCELION-LP/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.01.21-11.55.37:159][930]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Excelion\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.01.21-11.55.37:159][930]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.21-11.55.37:159][930]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.21-11.55.37:159][930]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.01.21-11.55.37:159][930]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.21-11.55.37:159][930]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.21-11.55.37:159][930]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.01.21-11.55.49:099][212]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:099][212]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:099][212]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:141][213]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:142][213]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:160][214]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:160][214]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:182][215]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:183][215]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:204][216]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:205][216]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:234][217]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:235][217]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:271][218]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:271][218]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:314][219]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:314][219]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:356][220]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:356][220]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:394][221]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:394][221]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:429][222]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:429][222]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:469][223]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:469][223]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:510][224]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:510][224]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:545][225]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:545][225]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:590][226]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:590][226]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:624][227]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:625][227]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:661][228]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:662][228]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:699][229]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:700][229]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:740][230]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:740][230]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:781][231]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:782][231]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:823][232]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:823][232]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:855][233]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:856][233]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:896][234]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:896][234]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.49:933][235]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.49:933][235]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:019][236]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:019][236]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:167][237]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:168][237]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:190][238]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:190][238]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:210][239]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:210][239]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:230][240]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:230][240]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:250][241]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:250][241]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:269][242]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:269][242]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:287][243]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:288][243]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:306][244]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:306][244]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:323][245]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:323][245]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:342][246]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:342][246]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:373][247]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:373][247]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:392][248]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:392][248]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:412][249]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:412][249]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:429][250]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:430][250]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:449][251]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:449][251]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:482][252]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:483][252]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:526][253]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:526][253]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:564][254]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:564][254]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:600][255]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:600][255]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:680][256]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:680][256]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:723][257]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:723][257]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:773][258]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:773][258]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:790][259]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:790][259]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:808][260]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:808][260]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:826][261]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:827][261]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:845][262]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:845][262]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:863][263]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:863][263]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:881][264]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:881][264]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:899][265]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:899][265]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:916][266]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:916][266]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:934][267]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:934][267]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:951][268]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:951][268]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:968][269]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:968][269]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.50:985][270]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.50:985][270]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:002][271]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:002][271]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:020][272]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:020][272]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:039][273]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:039][273]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:059][274]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:059][274]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:078][275]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:078][275]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:097][276]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:097][276]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:114][277]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:114][277]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:135][278]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:135][278]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:155][279]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:156][279]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:176][280]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:177][280]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:194][281]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:195][281]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:215][282]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:215][282]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:236][283]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:236][283]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:256][284]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:257][284]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:275][285]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:275][285]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:293][286]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:293][286]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:311][287]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:311][287]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:329][288]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:329][288]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:348][289]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:349][289]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:368][290]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:368][290]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:386][291]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:386][291]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:404][292]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:405][292]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:423][293]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:423][293]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:441][294]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:441][294]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:461][295]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:461][295]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:479][296]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:479][296]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:497][297]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:497][297]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:517][298]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:517][298]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:536][299]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:536][299]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:555][300]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:555][300]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:573][301]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:573][301]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:591][302]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:591][302]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:609][303]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:610][303]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:627][304]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:627][304]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:645][305]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:646][305]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:664][306]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:665][306]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:684][307]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:684][307]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:703][308]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:703][308]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:720][309]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:720][309]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:737][310]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:737][310]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:755][311]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:755][311]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:773][312]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:774][312]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:791][313]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:791][313]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:808][314]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:808][314]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:825][315]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:825][315]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:842][316]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:843][316]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:859][317]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:859][317]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:876][318]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:876][318]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:892][319]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:893][319]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:909][320]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:910][320]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:926][321]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:926][321]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:943][322]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:943][322]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:960][323]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:960][323]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:976][324]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:976][324]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.51:993][325]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.51:993][325]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:011][326]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:011][326]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:028][327]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:028][327]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:046][328]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:046][328]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:064][329]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:064][329]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:082][330]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:082][330]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:099][331]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:099][331]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:117][332]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:117][332]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:134][333]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:135][333]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:155][334]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:156][334]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:176][335]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:176][335]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:201][336]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:201][336]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:227][337]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:228][337]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:256][338]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:256][338]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:278][339]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:278][339]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:296][340]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:296][340]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:314][341]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:314][341]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:331][342]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:332][342]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:351][343]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:351][343]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:369][344]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:369][344]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:387][345]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:387][345]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:406][346]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:406][346]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:425][347]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:425][347]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:444][348]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:444][348]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:464][349]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:464][349]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:482][350]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:482][350]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:501][351]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:502][351]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:520][352]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:520][352]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:540][353]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:540][353]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:559][354]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:559][354]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.52:597][355]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.52:597][355]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:176][356]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:177][356]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:177][356]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:178][356]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:179][356]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:179][356]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:181][356]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:181][356]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:189][356]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:189][356]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:190][356]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:190][356]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:226][357]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:227][357]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:251][358]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:251][358]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:273][359]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:273][359]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:290][360]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:291][360]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:312][361]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:312][361]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:361][362]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:361][362]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:391][363]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:392][363]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:428][364]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:429][364]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:511][365]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:511][365]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:559][366]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:559][366]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:609][367]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:609][367]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:631][368]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:631][368]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:652][369]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:652][369]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:671][370]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:671][370]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:689][371]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:690][371]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:708][372]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:708][372]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:729][373]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:729][373]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:752][374]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:752][374]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:774][375]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:774][375]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:795][376]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:795][376]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:816][377]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:816][377]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:837][378]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:837][378]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:856][379]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:856][379]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:877][380]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:877][380]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:896][381]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:896][381]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:918][382]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:919][382]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:942][383]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:942][383]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:963][384]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:963][384]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.53:985][385]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.53:985][385]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:009][386]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:009][386]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:034][387]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:034][387]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:059][388]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:059][388]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:081][389]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:081][389]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:104][390]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:104][390]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:127][391]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:127][391]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:146][392]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:147][392]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:166][393]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:167][393]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:187][394]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:187][394]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:207][395]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:208][395]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:226][396]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:230][396]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:251][397]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:252][397]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:271][398]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:271][398]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:291][399]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:291][399]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:312][400]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:312][400]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:332][401]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:333][401]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:358][402]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:358][402]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:381][403]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:381][403]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:401][404]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:402][404]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:565][405]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:565][405]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:591][406]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:592][406]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:618][407]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:618][407]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:638][408]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:638][408]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:662][409]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:662][409]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:696][410]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:696][410]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:738][411]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:739][411]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:778][412]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:778][412]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:816][413]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:816][413]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:855][414]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:855][414]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:893][415]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:894][415]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:934][416]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:934][416]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.54:972][417]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.54:972][417]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:015][418]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:015][418]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:048][419]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:048][419]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:078][420]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:078][420]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:078][420]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:079][420]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:081][420]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:081][420]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:089][420]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:090][420]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:091][420]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:091][420]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:117][421]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:117][421]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:124][421]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:124][421]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:125][421]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:125][421]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:155][422]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:155][422]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:162][422]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:162][422]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:163][422]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:163][422]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:196][423]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:197][423]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:205][423]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:205][423]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:206][423]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:206][423]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:281][424]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:281][424]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:288][424]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:288][424]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:289][424]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:289][424]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:311][425]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:311][425]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:337][426]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:337][426]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:362][427]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:362][427]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:398][428]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:398][428]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:436][429]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:436][429]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:473][430]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:473][430]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:512][431]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:512][431]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:551][432]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:551][432]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:586][433]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:586][433]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:625][434]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:625][434]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:665][435]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:665][435]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:709][436]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:709][436]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:743][437]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:744][437]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:780][438]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:780][438]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:824][439]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:825][439]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:857][440]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:858][440]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:895][441]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:896][441]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:937][442]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:938][442]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.55:973][443]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.55:974][443]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:015][444]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:015][444]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:050][445]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:050][445]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:092][446]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:092][446]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:131][447]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:131][447]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:167][448]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:167][448]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:210][449]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:211][449]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:249][450]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:249][450]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:325][451]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:325][451]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:344][452]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:344][452]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:363][453]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:364][453]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:402][454]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:402][454]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:442][455]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:443][455]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:483][456]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:484][456]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:522][457]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:523][457]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:561][458]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:561][458]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:598][459]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:598][459]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.56:636][460]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2017.01.21-11.55.56:636][460]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2017.01.21-11.55.58:371][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.21-11.55.58:773][503]LogSavePackage: Save=228.41ms
+[2017.01.21-11.55.58:773][503]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/TopDownExampleMapAD2DB26D41DD43DA6E652897BA782A9A.tmp' to 'D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap.umap'
+[2017.01.21-11.55.58:778][503]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap.umap
+[2017.01.21-11.55.58:844][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap_BuiltData" FILE="D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2017.01.21-11.55.59:714][503]LogSavePackage: Save=843.89ms
+[2017.01.21-11.55.59:714][503]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/TopDownExampleMap_BuiltData24C6753E4372A040AD708C9901E027DD.tmp' to 'D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap_BuiltData.uasset'
+[2017.01.21-11.55.59:718][503]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap_BuiltData.uasset
+[2017.01.21-11.56.10:165][762]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 111 classes and 0 folders.
+[2017.01.21-11.56.41:709][454]BlueprintLog: New page: Compile VilligerCharacterBP
+[2017.01.21-11.56.44:718][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI/VilligerCharacterBP" FILE="D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset" SILENT=true
+[2017.01.21-11.56.44:791][572]LogSavePackage: Save=57.58ms
+[2017.01.21-11.56.44:791][572]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/VilligerCharacterBP6A4642934ACE727A4885E99E52E4AF42.tmp' to 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'
+[2017.01.21-11.56.44:791][572]LogFileManager:Warning: DeleteFile was unable to delete 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset', retrying in .5s...
+[2017.01.21-11.56.45:291][572]LogFileManager:Error: Error deleting file 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'.
+[2017.01.21-11.56.45:291][572]LogSavePackage:Error: Error saving 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'
+[2017.01.21-11.56.45:293][572]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset
+[2017.01.21-11.56.52:333][572]EditorErrors: New page: Save Output
+[2017.01.21-11.56.52:333][572]EditorErrors:Warning: Warning Error saving 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'
+[2017.01.21-11.57.03:066][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.21-11.57.03:360][840]LogSavePackage: Save=224.18ms
+[2017.01.21-11.57.03:360][840]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/TopDownExampleMapB6738C7A4ADF57B9298C2098921C12BD.tmp' to 'D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap.umap'
+[2017.01.21-11.57.03:367][840]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/Maps/TopDownExampleMap.umap
+[2017.01.21-11.57.03:409][840]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.419
+[2017.01.21-11.57.03:412][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI/VilligerCharacterBP" FILE="D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset" SILENT=true
+[2017.01.21-11.57.03:461][840]LogSavePackage: Save=38.37ms
+[2017.01.21-11.57.03:461][840]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/VilligerCharacterBPA033DCDF4B86CFD02EF24A9D2067A7DA.tmp' to 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'
+[2017.01.21-11.57.03:461][840]LogFileManager:Warning: DeleteFile was unable to delete 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset', retrying in .5s...
+[2017.01.21-11.57.03:961][840]LogFileManager:Error: Error deleting file 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'.
+[2017.01.21-11.57.03:961][840]LogSavePackage:Error: Error saving 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'
+[2017.01.21-11.57.03:964][840]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset
+[2017.01.21-11.57.04:937][840]EditorErrors: New page: Save Output
+[2017.01.21-11.57.04:937][840]EditorErrors:Warning: Warning Error saving 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/AI/VilligerCharacterBP.uasset'
+[2017.01.21-11.57.09:826][929]Cmd: QUIT_EDITOR
+[2017.01.21-11.57.09:916][929]LogExit: Preparing to exit.
+[2017.01.21-11.57.10:884][929]LogExit: Editor shut down
+[2017.01.21-11.57.10:884][929]LogExit: Transaction tracking system shut down
+[2017.01.21-11.57.11:058][929]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.21-11.57.11:059][929]LogExit: Object subsystem successfully closed.
+[2017.01.21-11.57.11:081][929]LogD3D11RHI: Shutdown
+[2017.01.21-11.57.11:081][929]LogD3D11RHI: CleanupD3DDevice
+[2017.01.21-11.57.11:177][929]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.21-11.57.11:207][929]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.21-11.57.11:207][929]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D7A6614-4040-152E-2A7F-5FB3F90626FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=6b221ef14225161538fe1689bc5db37f%7Ca3007f87b8254863ab7a5b241e6425cc%7C2a65bc12-a1ec-4418-8aec-0fa4fa4b933d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.21-11.57.11:220][929]LogModuleManager: Shutting down and abandoning module BlueprintGraph (244)
+[2017.01.21-11.57.11:220][929]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (243)
+[2017.01.21-11.57.11:241][929]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (242)
+[2017.01.21-11.57.11:241][929]LogModuleManager: Shutting down and abandoning module StatsViewer (241)
+[2017.01.21-11.57.11:241][929]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (240)
+[2017.01.21-11.57.11:241][929]LogModuleManager: Shutting down and abandoning module CrashTracker (239)
+[2017.01.21-11.57.11:241][929]LogModuleManager: Shutting down and abandoning module SceneOutliner (238)
+[2017.01.21-11.57.11:241][929]LogModuleManager: Shutting down and abandoning module WidgetCarousel (237)
+[2017.01.21-11.57.11:241][929]LogModuleManager: Shutting down and abandoning module AddContentDialog (236)
+[2017.01.21-11.57.11:241][929]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.21-11.57.11:243][929]LogModuleManager: Shutting down and abandoning module GameplayTags (235)
+[2017.01.21-11.57.11:243][929]LogModuleManager: Shutting down and abandoning module EditorWidgets (234)
+[2017.01.21-11.57.11:243][929]LogModuleManager: Shutting down and abandoning module CollectionManager (233)
+[2017.01.21-11.57.11:244][929]LogDirectoryWatcher: A directory notification for 'D:/Gamejam/Wulna/Content/Collections/' was aborted.
+[2017.01.21-11.57.11:244][929]LogDirectoryWatcher: A directory notification for 'D:/Gamejam/Wulna/Content/Developers/Excelion/Collections/' was aborted.
+[2017.01.21-11.57.11:244][929]LogDirectoryWatcher: A directory notification for 'D:/Gamejam/Wulna/Saved/Collections/' was aborted.
+[2017.01.21-11.57.11:244][929]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.21-11.57.11:244][929]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.21-11.57.11:251][929]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.21-11.57.11:252][929]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.21-11.57.11:357][929]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.21-11.57.11:358][929]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.21-11.57.11:358][929]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.21-11.57.11:358][929]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.21-11.57.11:358][929]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.21-11.57.11:358][929]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.21-11.57.11:359][929]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.21-11.57.11:359][929]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.21-11.57.11:359][929]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.21-11.57.11:359][929]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.21-11.57.11:389][929]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.21-11.57.11:389][929]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.21-11.57.11:389][929]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.21-11.57.11:389][929]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.21-11.57.11:389][929]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.21-11.57.11:389][929]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.21-11.57.11:390][929]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.21-11.57.11:390][929]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.21-11.57.11:390][929]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.21-11.57.11:403][929]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.21-11.57.11:404][929]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.21-11.57.11:509][929]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.21-11.57.11:510][929]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.21-11.57.11:511][929]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.21-11.57.11:511][929]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.21-11.57.11:511][929]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.21-11.57.11:511][929]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.21-11.57.11:511][929]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.21-11.57.11:511][929]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.21-11.57.11:512][929]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.21-11.57.11:512][929]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.21-11.57.11:515][929]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.21-11.57.11:517][929]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.21-11.57.11:518][929]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.21-11.57.11:618][929]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.21-11.57.11:718][929]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.21-11.57.11:718][929]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.21-11.57.11:718][929]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.21-11.57.11:718][929]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.21-11.57.11:719][929]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.21-11.57.11:733][929]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.21-11.57.11:740][929]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.21-11.57.11:741][929]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.21-11.57.11:741][929]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.21-11.57.11:741][929]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.21-11.57.11:741][929]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.21-11.57.11:741][929]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.21-11.57.11:741][929]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.21-11.57.11:741][929]LogDirectoryWatcher: A directory notification for 'D:/Gamejam/Wulna/Content/' was aborted.
+[2017.01.21-11.57.11:741][929]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.21-11.57.11:743][929]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.21-11.57.11:965][929]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.21-11.57.11:965][929]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.21-11.57.11:966][929]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.21-11.57.11:966][929]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.21-11.57.11:966][929]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.21-11.57.11:966][929]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.21-11.57.11:966][929]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.21-11.57.11:966][929]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.21-11.57.11:975][929]LogDerivedDataCache: Shutdown
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.21-11.57.11:976][929]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.21-11.57.11:977][929]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.21-11.57.11:977][929]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.21-11.57.11:977][929]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.21-11.57.11:977][929]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.21-11.57.11:977][929]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.21-11.57.11:977][929]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.21-11.57.11:979][929]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.21-11.57.11:979][929]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.21-11.57.11:979][929]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.21-11.57.11:979][929]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.21-11.57.11:979][929]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.21-11.57.11:979][929]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.21-11.57.11:982][929]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.21-11.57.11:983][929]LogExit: Exiting.
+[2017.01.21-11.57.12:004][929]Log file closed, 01/21/17 13:57:12

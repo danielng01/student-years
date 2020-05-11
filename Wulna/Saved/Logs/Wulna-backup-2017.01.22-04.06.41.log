@@ -1,0 +1,638 @@
+﻿Log file open, 01/22/17 03:56:32
+LogInit:Display: Running engine for game: Wulna
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-831569828) SRandInit(-831569828).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.072049
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.22-01.56.34:262][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.22-01.56.34:262][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.22-01.56.34:551][  0]LogInit: Computer: EXCELION-LP
+[2017.01.22-01.56.34:551][  0]LogInit: User: Excelion
+[2017.01.22-01.56.34:551][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.22-01.56.34:551][  0]LogInit: High frequency timer resolution =2.208037 MHz
+[2017.01.22-01.56.34:552][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.01.22-01.56.34:552][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.22-01.56.34:552][  0]LogMemory: Process Physical Memory: 263.64 MB used, 263.64 MB peak
+[2017.01.22-01.56.34:552][  0]LogMemory: Process Virtual Memory: 264.05 MB used, 264.05 MB peak
+[2017.01.22-01.56.34:552][  0]LogMemory: Physical Memory: 1719.79 MB used,  2228.76 MB free, 3948.55 MB total
+[2017.01.22-01.56.34:552][  0]LogMemory: Virtual Memory: 660.42 MB used,  2228.76 MB free, 8388608.00 MB total
+[2017.01.22-01.56.37:493][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.01.22-01.56.41:712][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.22-01.56.42:386][  0]LogD3D11RHI:    0. 'ATI Mobility Radeon HD 5730' (Feature Level 11_0)
+[2017.01.22-01.56.42:386][  0]LogD3D11RHI:       1014/0/1718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.01.22-01.56.42:386][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.22-01.56.42:397][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.22-01.56.42:398][  0]LogD3D11RHI:     GPU DeviceId: 0x68c0 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.22-01.56.42:398][  0]LogWindows: EnumDisplayDevices:
+[2017.01.22-01.56.42:398][  0]LogWindows:    0. 'ATI Mobility Radeon HD 5730' (P:0 D:1)
+[2017.01.22-01.56.42:398][  0]LogWindows:    1. 'ATI Mobility Radeon HD 5730' (P:1 D:1)
+[2017.01.22-01.56.42:399][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2017.01.22-01.56.42:399][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.01.22-01.56.42:399][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.01.22-01.56.42:399][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid GetVideoDriverDetailsInvalid GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2017.01.22-01.56.42:399][  0]LogD3D11RHI:     Adapter Name: ATI Mobility Radeon HD 5730
+[2017.01.22-01.56.42:399][  0]LogD3D11RHI:   Driver Version: 8.692.1.0 (internal:8.692.1.0, unified:8.692.1.0)
+[2017.01.22-01.56.42:399][  0]LogD3D11RHI:      Driver Date: 1-22-2010
+[2017.01.22-01.56.42:399][  0]LogRHI: Texture pool is 710 MB (70% of 1014 MB)
+[2017.01.22-01.56.42:414][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.22-01.56.42:438][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.01.22-01.56.46:255][  0]LogShaderCompilers: Guid format shader working directory is 33 characters bigger than the processId version (D:/Gamejam/Wulna/Intermediate/Shaders/WorkingDirectory/4032/).
+[2017.01.22-01.56.46:255][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Excelion/AppData/Local/Temp/UnrealShaderWorkingDir/19CDC7274E925C62A4067586A35728FE/'.
+[2017.01.22-01.56.46:255][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.22-01.56.53:725][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.22-01.56.53:852][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.22-01.56.53:967][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.22-01.56.54:058][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.22-01.56.54:191][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.22-01.56.54:301][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.22-01.56.54:390][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.22-01.56.54:511][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.22-01.56.54:580][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.22-01.56.54:783][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.22-01.56.54:904][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.22-01.56.55:045][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.22-01.56.55:161][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.22-01.56.55:300][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.22-01.56.55:664][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.22-01.56.55:915][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.22-01.56.55:915][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.22-01.56.56:033][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.22-01.56.56:313][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.22-01.56.56:372][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.22-01.56.56:490][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.22-01.56.56:579][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.22-01.56.56:708][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.22-01.56.56:826][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.22-01.56.56:826][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.22-01.56.58:143][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.22-01.56.58:768][  0]LogDerivedDataCache: Loaded boot cache 0.62s 50MB C:/Users/Excelion/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.22-01.56.58:768][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Excelion/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.22-01.56.58:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Gamejam/Wulna/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.22-01.56.58:768][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.22-01.56.58:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Gamejam/Wulna/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.22-01.56.58:768][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.22-01.56.58:805][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.22-01.56.58:816][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Excelion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.22-01.57.01:741][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.22-01.57.01:783][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.22-01.57.02:349][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.22-01.57.02:445][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.22-01.57.02:525][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.22-01.57.02:525][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.22-01.57.02:525][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.22-01.57.04:918][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: wulna, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3414250591
+[2017.01.22-01.57.05:031][  0]LogAssetRegistry: FAssetRegistry took 0.0203 seconds to start up
+[2017.01.22-01.57.05:302][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.242851 seconds
+[2017.01.22-01.57.05:318][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.22-01.57.05:318][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.22-01.57.05:318][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.22-01.57.05:415][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.22-01.57.08:322][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.22-01.57.08:368][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.22-01.57.08:368][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.22-01.57.17:096][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.22-01.57.17:169][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.22-01.57.17:811][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.22-01.57.18:570][  0]SourceControl: Info Source control is disabled
+[2017.01.22-01.57.19:176][  0]SourceControl: Info Source control is disabled
+[2017.01.22-01.57.19:261][  0]SourceControl: Info Source control is disabled
+[2017.01.22-01.57.19:348][  0]SourceControl: Info Source control is disabled
+[2017.01.22-01.57.22:109][  0]LogEngine: Initializing Engine...
+[2017.01.22-01.57.22:110][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.22-01.57.22:679][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.22-01.57.22:781][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.22-01.57.22:924][  0]LogInit: FAudioDevice initialized.
+[2017.01.22-01.57.22:976][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/Excelion/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.22-01.57.22:989][  0]LogInit: Texture streaming: Enabled
+[2017.01.22-01.57.23:410][  0]LogInit: Transaction tracking system initialized
+[2017.01.22-01.57.24:306][  0]BlueprintLog: New page: Editor Load
+[2017.01.22-01.57.26:220][  0]LocalizationService: Info Localization service is disabled
+[2017.01.22-01.57.27:611][  0]LogConsoleResponse:Display: 
+[2017.01.22-01.57.28:868][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.22-01.57.28:868][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.22-01.57.29:871][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Content/' took 0.02s
+[2017.01.22-01.57.31:048][  0]SourceControl: Info Source control is disabled
+[2017.01.22-01.57.31:048][  0]Cmd: MAP LOAD FILE="D:/Gamejam/Wulna/Content/Maps/TestingMapAI.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.22-01.57.31:049][  0]LightingResults: New page: Lighting Build
+[2017.01.22-01.57.31:107][  0]MapCheck: New page: Map Check
+[2017.01.22-01.57.31:107][  0]LightingResults: New page: Lighting Build
+[2017.01.22-01.57.37:065][  0]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.22-01.57.37:211][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.22-01.57.37:500][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.22-01.57.37:632][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.22-01.57.37:640][  0]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.01.22-01.57.38:384][  0]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-01.57.38:562][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.22-01.57.38:596][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.22-01.57.38:668][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 71.841ms to complete.
+[2017.01.22-01.57.38:668][  0]LogFileHelpers: Loading map 'TestingMapAI' took 7.619
+[2017.01.22-01.57.39:049][  0]LogCollectionManager: Loaded 0 collections in 0.002299 seconds
+[2017.01.22-01.57.39:152][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Saved/Collections/' took 0.01s
+[2017.01.22-01.57.39:152][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Content/Developers/Excelion/Collections/' took 0.01s
+[2017.01.22-01.57.39:152][  0]LogFileCache: Scanning file cache for directory 'D:/Gamejam/Wulna/Content/Collections/' took 0.01s
+[2017.01.22-01.57.39:152][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.01.22-01.57.39:171][  0]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2190 classes and 428 folders.
+[2017.01.22-01.57.39:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.22-01.57.39:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.22-01.57.39:234][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0010 seconds. Added 13 classes and 0 folders.
+[2017.01.22-01.57.39:324][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.01.22-01.57.40:213][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.01.22-01.57.40:336][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.01.22-01.57.40:444][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.22-01.57.40:458][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.22-01.57.40:587][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.01.22-01.57.40:588][  0]LogLoad: (Engine Initialization) Total time: 77.41 seconds
+[2017.01.22-01.57.40:588][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.44 seconds
+[2017.01.22-01.57.40:588][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.01.22-01.57.40:606][  0]LogOcInput: OculusInput pre-init called
+[2017.01.22-01.57.40:633][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.01.22-01.57.41:055][  0]LogRenderer: Reallocating scene render targets to support 1096x348 NumSamples 1 (Frame:2).
+[2017.01.22-01.57.41:899][  3]LogAssetRegistry: Asset discovery search completed in 36.8877 seconds
+[2017.01.22-01.57.41:899][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.22-01.57.41:899][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2017.01.22-01.57.48:271][199]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 111 classes and 0 folders.
+[2017.01.22-01.58.05:125][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enviroment/WinZone" FILE="D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Enviroment/WinZone.uasset" SILENT=true
+[2017.01.22-01.58.05:273][676]LogSavePackage: Save=63.91ms
+[2017.01.22-01.58.05:273][676]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/WinZone71E8358A4BA21E26CA263C96945F0B44.tmp' to 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Enviroment/WinZone.uasset'
+[2017.01.22-01.58.05:274][676]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Enviroment/WinZone.uasset
+[2017.01.22-01.58.13:133][ 46]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.22-01.58.13:171][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-01.58.13:177][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.22-01.58.13:257][ 46]PIE: New page: PIE session: TestingMapAI (Jan 22, 2017, 5:58:13 AM)
+[2017.01.22-01.58.13:257][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMapAI
+[2017.01.22-01.58.13:282][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024472s)
+[2017.01.22-01.58.13:284][ 46]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-01.58.13:284][ 46]LogPlayLevel: PIE: World Init took: (0.002259s)
+[2017.01.22-01.58.13:285][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMapAI.TestingMapAI to /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI (0.027476s)
+[2017.01.22-01.58.13:405][ 46]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.22-01.58.13:427][ 46]LogInit: FAudioDevice initialized.
+[2017.01.22-01.58.13:472][ 46]LogLoad: Game class is 'WulnaGM_C'
+[2017.01.22-01.58.13:478][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI up for play (max tick rate 60) at 2017.01.22-03.58.13
+[2017.01.22-01.58.13:480][ 46]LogWorld: Bringing up level for play took: 0.006702
+[2017.01.22-01.58.13:661][ 46]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0020 seconds. Added 11 classes and 0 folders.
+[2017.01.22-01.58.13:680][ 46]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TestingMapAI 1.116
+[2017.01.22-01.58.13:681][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-01.58.22:215][548]LogNet: Browse: /Game/Maps/TestingMapAI
+[2017.01.22-01.58.22:215][548]LogLoad: LoadMap: /Game/Maps/TestingMapAI
+[2017.01.22-01.58.22:294][548]Cmd: MEM
+[2017.01.22-01.58.22:355][548]LogMemory: Platform Memory Stats for Windows
+[2017.01.22-01.58.22:355][548]LogMemory: Process Physical Memory: 1237.89 MB used, 1237.89 MB peak
+[2017.01.22-01.58.22:355][548]LogMemory: Process Virtual Memory: 1136.01 MB used, 1136.01 MB peak
+[2017.01.22-01.58.22:355][548]LogMemory: Physical Memory: 2606.59 MB used,  1341.96 MB free, 3948.55 MB total
+[2017.01.22-01.58.22:355][548]LogMemory: Virtual Memory: 1894.49 MB used,  1341.96 MB free, 8388608.00 MB total
+[2017.01.22-01.58.22:355][548]LogMemory: 
+[2017.01.22-01.58.22:355][548]Allocator Stats for TBB: (not implemented)
+[2017.01.22-01.58.22:355][548]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMapAI
+[2017.01.22-01.58.22:367][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011780s)
+[2017.01.22-01.58.22:368][548]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-01.58.22:368][548]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2017.01.22-01.58.22:368][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMapAI.TestingMapAI to /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI (0.013529s)
+[2017.01.22-01.58.22:368][548]LogLoad: Game class is 'WulnaGM_C'
+[2017.01.22-01.58.22:377][548]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI up for play (max tick rate 60) at 2017.01.22-03.58.22
+[2017.01.22-01.58.22:378][548]LogWorld: Bringing up level for play took: 0.008859
+[2017.01.22-01.58.22:379][548]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.22-01.58.22:406][548]LogLoad: Took 0.191579 seconds to LoadMap(/Game/Maps/UEDPIE_0_TestingMapAI)
+[2017.01.22-01.58.24:132][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-01.58.24:185][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-01.59.24:440][879]BlueprintLog: New page: Compile SheepCharacterBP
+[2017.01.22-01.59.29:842][145]BlueprintLog: New page: Compile SheepCharacterBP
+[2017.01.22-01.59.40:122][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Character/SheepCharacterBP" FILE="D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Character/SheepCharacterBP.uasset" SILENT=true
+[2017.01.22-01.59.40:301][685]LogSavePackage: Save=161.28ms
+[2017.01.22-01.59.40:301][685]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/SheepCharacterBP62019CE748115D860FEAE0885136CE44.tmp' to 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Character/SheepCharacterBP.uasset'
+[2017.01.22-01.59.40:303][685]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Character/SheepCharacterBP.uasset
+[2017.01.22-01.59.41:021][728]BlueprintLog: New page: Compile SheepCharacterBP
+[2017.01.22-01.59.41:996][755]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.22-01.59.42:051][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-01.59.42:057][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.22-01.59.42:057][755]PIE: New page: PIE session: TestingMapAI (Jan 22, 2017, 5:59:42 AM)
+[2017.01.22-01.59.42:058][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMapAI
+[2017.01.22-01.59.42:070][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012672s)
+[2017.01.22-01.59.42:071][755]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-01.59.42:072][755]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2017.01.22-01.59.42:072][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMapAI.TestingMapAI to /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI (0.014374s)
+[2017.01.22-01.59.42:146][755]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.22-01.59.42:153][755]LogInit: FAudioDevice initialized.
+[2017.01.22-01.59.42:197][755]LogLoad: Game class is 'WulnaGM_C'
+[2017.01.22-01.59.42:204][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI up for play (max tick rate 60) at 2017.01.22-03.59.42
+[2017.01.22-01.59.42:205][755]LogWorld: Bringing up level for play took: 0.007118
+[2017.01.22-01.59.42:207][755]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.22-01.59.42:216][755]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TestingMapAI -0.35
+[2017.01.22-01.59.42:217][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-01.59.42:361][755]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:961).
+[2017.01.22-01.59.44:961][846]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.45:000][848]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-01.59.45:001][848]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-01.59.45:271][858]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-01.59.45:688][873]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.46:244][893]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.46:843][914]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.47:028][920]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-01.59.47:271][929]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-01.59.47:555][939]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.47:983][954]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.48:506][972]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.48:973][988]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.49:047][990]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-01.59.49:293][999]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-01.59.49:618][ 10]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.50:190][ 29]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.50:699][ 46]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-01.59.51:069][ 58]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-01.59.51:388][ 68]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-01.59.51:479][ 72]LogNet: Browse: /Game/Maps/TestingMapAI
+[2017.01.22-01.59.51:479][ 72]LogLoad: LoadMap: /Game/Maps/TestingMapAI
+[2017.01.22-01.59.51:581][ 72]Cmd: MEM
+[2017.01.22-01.59.51:646][ 72]LogMemory: Platform Memory Stats for Windows
+[2017.01.22-01.59.51:646][ 72]LogMemory: Process Physical Memory: 1307.68 MB used, 1307.68 MB peak
+[2017.01.22-01.59.51:646][ 72]LogMemory: Process Virtual Memory: 1205.11 MB used, 1205.11 MB peak
+[2017.01.22-01.59.51:646][ 72]LogMemory: Physical Memory: 2675.37 MB used,  1273.18 MB free, 3948.55 MB total
+[2017.01.22-01.59.51:646][ 72]LogMemory: Virtual Memory: 1966.39 MB used,  1273.18 MB free, 8388608.00 MB total
+[2017.01.22-01.59.51:646][ 72]LogMemory: 
+[2017.01.22-01.59.51:646][ 72]Allocator Stats for TBB: (not implemented)
+[2017.01.22-01.59.51:646][ 72]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMapAI
+[2017.01.22-01.59.51:658][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012049s)
+[2017.01.22-01.59.51:659][ 72]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-01.59.51:660][ 72]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2017.01.22-01.59.51:660][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMapAI.TestingMapAI to /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI (0.014240s)
+[2017.01.22-01.59.51:660][ 72]LogLoad: Game class is 'WulnaGM_C'
+[2017.01.22-01.59.51:669][ 72]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI up for play (max tick rate 60) at 2017.01.22-03.59.51
+[2017.01.22-01.59.51:671][ 72]LogWorld: Bringing up level for play took: 0.009608
+[2017.01.22-01.59.51:671][ 72]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.22-01.59.51:678][ 72]LogLoad: Took 0.198931 seconds to LoadMap(/Game/Maps/UEDPIE_0_TestingMapAI)
+[2017.01.22-01.59.52:279][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-01.59.52:348][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.00.23:606][861]BlueprintLog: New page: Compile SheepCharacterBP
+[2017.01.22-02.00.24:227][864]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.22-02.00.24:284][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.00.24:290][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.22-02.00.24:290][864]PIE: New page: PIE session: TestingMapAI (Jan 22, 2017, 6:00:24 AM)
+[2017.01.22-02.00.24:290][864]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMapAI
+[2017.01.22-02.00.24:302][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011186s)
+[2017.01.22-02.00.24:303][864]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-02.00.24:303][864]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2017.01.22-02.00.24:303][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMapAI.TestingMapAI to /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI (0.013095s)
+[2017.01.22-02.00.24:373][864]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.22-02.00.24:381][864]LogInit: FAudioDevice initialized.
+[2017.01.22-02.00.24:425][864]LogLoad: Game class is 'WulnaGM_C'
+[2017.01.22-02.00.24:431][864]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI up for play (max tick rate 60) at 2017.01.22-04.00.24
+[2017.01.22-02.00.24:433][864]LogWorld: Bringing up level for play took: 0.006427
+[2017.01.22-02.00.24:434][864]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.22-02.00.24:443][864]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TestingMapAI -0.123
+[2017.01.22-02.00.24:444][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.00.27:402][962]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.27:456][964]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-02.00.27:457][964]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-02.00.27:714][972]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-02.00.28:043][984]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.28:645][  6]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.29:076][ 21]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.29:457][ 34]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-02.00.29:716][ 43]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-02.00.29:796][ 46]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.30:372][ 66]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.30:860][ 83]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.31:345][ 99]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.31:477][104]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-02.00.31:754][114]LogBlueprintUserMessages: [Tast_SetEnraged_C_3] Enrange Set TRUE
+[2017.01.22-02.00.32:067][125]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.32:640][145]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.33:186][164]LogBlueprintUserMessages: [CanSeePlayer_Service_C_5] PLAYER VISIBLE
+[2017.01.22-02.00.33:488][174]LogBlueprintUserMessages: [VilligerCharacterBP_206] SHOT FIRED
+
+[2017.01.22-02.00.33:743][183]LogNet: Browse: /Game/Maps/TestingMapAI
+[2017.01.22-02.00.33:743][183]LogLoad: LoadMap: /Game/Maps/TestingMapAI
+[2017.01.22-02.00.33:828][183]Cmd: MEM
+[2017.01.22-02.00.33:890][183]LogMemory: Platform Memory Stats for Windows
+[2017.01.22-02.00.33:890][183]LogMemory: Process Physical Memory: 1308.19 MB used, 1308.19 MB peak
+[2017.01.22-02.00.33:890][183]LogMemory: Process Virtual Memory: 1205.10 MB used, 1205.14 MB peak
+[2017.01.22-02.00.33:890][183]LogMemory: Physical Memory: 2673.39 MB used,  1275.16 MB free, 3948.55 MB total
+[2017.01.22-02.00.33:890][183]LogMemory: Virtual Memory: 1961.58 MB used,  1275.16 MB free, 8388608.00 MB total
+[2017.01.22-02.00.33:890][183]LogMemory: 
+[2017.01.22-02.00.33:890][183]Allocator Stats for TBB: (not implemented)
+[2017.01.22-02.00.33:890][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMapAI
+[2017.01.22-02.00.33:902][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011455s)
+[2017.01.22-02.00.33:903][183]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-02.00.33:903][183]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2017.01.22-02.00.33:904][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMapAI.TestingMapAI to /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI (0.013421s)
+[2017.01.22-02.00.33:904][183]LogLoad: Game class is 'WulnaGM_C'
+[2017.01.22-02.00.33:913][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI up for play (max tick rate 60) at 2017.01.22-04.00.33
+[2017.01.22-02.00.33:914][183]LogWorld: Bringing up level for play took: 0.009600
+[2017.01.22-02.00.33:915][183]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.01.22-02.00.33:921][183]LogLoad: Took 0.177936 seconds to LoadMap(/Game/Maps/UEDPIE_0_TestingMapAI)
+[2017.01.22-02.00.35:824][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.00.35:885][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.00.46:056][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Character/SheepCharacterBP" FILE="D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Character/SheepCharacterBP.uasset" SILENT=true
+[2017.01.22-02.00.46:234][814]LogSavePackage: Save=162.85ms
+[2017.01.22-02.00.46:234][814]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/SheepCharacterBPB19917C04D77E5B1045594838BEE53CE.tmp' to 'D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Character/SheepCharacterBP.uasset'
+[2017.01.22-02.00.46:235][814]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/TopDownBP/Blueprints/Character/SheepCharacterBP.uasset
+[2017.01.22-02.00.53:082][ 93]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.01.22-02.01.03:563][460]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.22-02.01.03:823][460]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.22-02.01.04:453][460]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.22-02.01.04:803][460]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.22-02.01.04:824][460]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.22-02.01.05:068][460]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.22-02.01.05:185][460]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.22-02.01.05:202][460]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.01.22-02.01.05:534][460]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.01.22-02.01.05:682][460]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.01.22-02.01.05:705][460]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.22-02.01.10:486][460]LogTexture:Display: Building textures: T_ColorGrid (AutoDXT)
+[2017.01.22-02.01.10:679][460]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.22-02.01.10:701][460]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.22-02.01.10:703][460]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.22-02.01.10:719][460]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.22-02.01.10:722][460]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.01.22-02.01.10:745][460]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.01.22-02.01.10:751][460]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2017.01.22-02.01.10:753][460]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2017.01.22-02.01.11:130][460]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2017.01.22-02.01.13:015][460]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.01.22-02.01.13:032][460]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.22-02.01.21:065][460]LogAIModule: Creating AISystem for world StarterMap
+[2017.01.22-02.01.21:066][460]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.22-02.01.21:356][460]LogTexture:Display: Building textures: T_Bush_N (BC5)
+[2017.01.22-02.01.21:447][460]LogTexture:Display: Building textures: T_Bush_D (AutoDXT)
+[2017.01.22-02.01.22:581][460]LogTexture:Display: Building textures: T_Door_N (BC5)
+[2017.01.22-02.01.23:707][460]LogTexture:Display: Building textures: T_Door_M (DXT1)
+[2017.01.22-02.01.25:674][460]LogTexture:Display: Building textures: T_RockMesh_N (BC5)
+[2017.01.22-02.01.27:095][460]LogTexture:Display: Building textures: T_RockMesh_M (DXT1)
+[2017.01.22-02.01.31:903][460]LogTexture:Display: Building textures: T_Shelf_N (BC5)
+[2017.01.22-02.01.32:972][460]LogTexture:Display: Building textures: T_Shelf_M (DXT1)
+[2017.01.22-02.02.18:647][840]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: StarterMap, Actor: /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_WallSconce_C_0
+[2017.01.22-02.02.18:681][840]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: StarterMap, Actor: /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Steam_C_1
+[2017.01.22-02.02.18:682][840]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: StarterMap, Actor: /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_CeilingLight_C_1
+[2017.01.22-02.02.18:690][840]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: Advanced_Lighting, Actor: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2017.01.22-02.02.18:692][840]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: StarterMap, Actor: /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Sparks_C_1
+[2017.01.22-02.02.18:693][840]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: StarterMap, Actor: /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1
+[2017.01.22-02.02.18:694][840]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: StarterMap, Actor: /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1
+[2017.01.22-02.02.37:258][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_WallSconce_C_0' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:270][840]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0.Scene1) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.22-02.02.37:271][840]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0.Scene1) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.22-02.02.37:271][840]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0.Scene1) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.22-02.02.37:271][840]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0.Scene1) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.22-02.02.37:271][840]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0.Scene1) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.22-02.02.37:273][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Default__DEADCLASS_BP_LightStudio_C_6' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:273][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'UserConstructionScript' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:273][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Steam_C_3' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:273][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_1' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:273][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_LightStudio_C_7' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:274][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'StaticMeshComponent_24' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:275][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'StaticMeshComponent_13' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:275][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Steam_C_2' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:304][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_CeilingLight_C_4' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:305][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_LightStudio_C_6' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:351][840]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.22-02.02.37:364][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Sparks_C_9' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:364][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_3' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:365][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Sparks_C_8' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:365][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_WallSconce_C_1' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:365][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Smoke_C_11' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:365][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_0' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:365][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Smoke_C_10' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:365][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Fire_C_13' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:366][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_2' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:366][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Fire_C_12' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:366][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Explosion_C_15' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:366][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_1' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:366][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Blueprint_Effect_Explosion_C_263' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:367][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_Effect_Explosion_C_14' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:367][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_1' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:367][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Blueprint_Effect_Explosion_C_262' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:367][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Blueprint_Effect_Fire_C_261' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:367][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_2' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:367][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Blueprint_Effect_Fire_C_260' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:368][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Blueprint_Effect_Smoke_C_259' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:368][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_0' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:368][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Blueprint_Effect_Smoke_C_258' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:368][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Blueprint_Effect_Sparks_C_257' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:368][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_3' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:369][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Blueprint_Effect_Sparks_C_256' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:369][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_BP_LightStudio_C_255' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:370][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Default__REINST_BP_LightStudio_C_254' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:371][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'StaticMeshComponent_13' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:372][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'StaticMeshComponent_24' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:372][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Blueprint_CeilingLight_C_5' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:372][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_BP_LightStudio_C_254' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:372][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Blueprint_CeilingLight_C_253' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:372][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Blueprint_CeilingLight_C_252' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:373][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Blueprint_Effect_Steam_C_251' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:373][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AudioComponent_1' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:373][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Blueprint_Effect_Steam_C_250' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:373][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Blueprint_WallSconce_C_249' or package '/Engine/Transient'.
+[2017.01.22-02.02.37:373][840]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Blueprint_WallSconce_C_248' or package '/Engine/Transient'.
+[2017.01.22-02.04.45:244][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingMapAI" FILE="D:/Gamejam/Wulna/Content/Maps/TestingMapAI.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.22-02.04.45:731][710]LogSavePackage: Save=317.93ms
+[2017.01.22-02.04.45:731][710]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/TestingMapAI349E5BFE482B5E9F74565983776CE332.tmp' to 'D:/Gamejam/Wulna/Content/Maps/TestingMapAI.umap'
+[2017.01.22-02.04.45:732][710]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/Maps/TestingMapAI.umap
+[2017.01.22-02.04.45:904][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingMapAI_BuiltData" FILE="D:/Gamejam/Wulna/Content/Maps/TestingMapAI_BuiltData.uasset" SILENT=true
+[2017.01.22-02.04.46:858][710]LogSavePackage: Save=791.21ms
+[2017.01.22-02.04.46:858][710]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/TestingMapAI_BuiltDataC57EEADF4CD5FFBFAA649AA749F037DA.tmp' to 'D:/Gamejam/Wulna/Content/Maps/TestingMapAI_BuiltData.uasset'
+[2017.01.22-02.04.46:881][710]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/Maps/TestingMapAI_BuiltData.uasset
+[2017.01.22-02.05.09:216][348]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.22-02.05.09:245][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.05.09:245][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.22-02.05.09:245][348]PIE: New page: PIE session: TestingMapAI (Jan 22, 2017, 6:05:09 AM)
+[2017.01.22-02.05.09:245][348]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestingMapAI
+[2017.01.22-02.05.09:300][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054436s)
+[2017.01.22-02.05.09:301][348]LogAIModule: Creating AISystem for world TestingMapAI
+[2017.01.22-02.05.09:301][348]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2017.01.22-02.05.09:301][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestingMapAI.TestingMapAI to /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI (0.056299s)
+[2017.01.22-02.05.09:406][348]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.22-02.05.09:415][348]LogInit: FAudioDevice initialized.
+[2017.01.22-02.05.09:453][348]LogLoad: Game class is 'WulnaGM_C'
+[2017.01.22-02.05.09:460][348]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestingMapAI.TestingMapAI up for play (max tick rate 60) at 2017.01.22-04.05.09
+[2017.01.22-02.05.09:462][348]LogWorld: Bringing up level for play took: 0.007323
+[2017.01.22-02.05.09:470][348]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TestingMapAI 0.897
+[2017.01.22-02.05.09:471][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.05.17:173][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.05.17:216][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI' with GeneratedClass '/Game/Maps/TestingMapAI.TestingMapAI_C' with ClassGeneratedBy '/Game/Maps/TestingMapAI.TestingMapAI:PersistentLevel.TestingMapAI'
+[2017.01.22-02.05.21:199][910]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.21:215][910]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.48:017][781]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.48:017][781]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.48:197][787]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.48:197][787]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.48:374][796]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.48:374][796]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.48:542][804]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.48:542][804]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.49:730][855]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.49:730][855]LogEditorTransaction: Undo Move Actors
+[2017.01.22-02.05.50:037][865]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.50:037][865]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.50:262][872]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.50:262][872]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.54:208][995]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.54:208][995]LogEditorTransaction: Undo Move Actors
+[2017.01.22-02.05.54:818][ 17]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.54:818][ 17]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.55:352][ 46]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.55:352][ 46]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.55:819][ 61]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.55:819][ 61]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.56:285][ 75]Cmd: TRANSACTION UNDO
+[2017.01.22-02.05.56:285][ 75]LogEditorTransaction: Undo Create Actors
+[2017.01.22-02.05.57:978][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingMapAI" FILE="D:/Gamejam/Wulna/Content/Maps/TestingMapAI.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.22-02.05.58:303][128]LogSavePackage: Save=244.97ms
+[2017.01.22-02.05.58:303][128]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/TestingMapAI6035AD04451BCD536AC53F94353A269E.tmp' to 'D:/Gamejam/Wulna/Content/Maps/TestingMapAI.umap'
+[2017.01.22-02.05.58:304][128]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/Maps/TestingMapAI.umap
+[2017.01.22-02.05.58:360][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingMapAI_BuiltData" FILE="D:/Gamejam/Wulna/Content/Maps/TestingMapAI_BuiltData.uasset" SILENT=true
+[2017.01.22-02.05.59:049][128]LogSavePackage: Save=673.93ms
+[2017.01.22-02.05.59:049][128]LogSavePackage: Moving 'D:/Gamejam/Wulna/Saved/TestingMapAI_BuiltData6B2B1560417348E10FDADFA439138DC3.tmp' to 'D:/Gamejam/Wulna/Content/Maps/TestingMapAI_BuiltData.uasset'
+[2017.01.22-02.05.59:050][128]LogSavePackage:Display: Finished SavePackage D:/Gamejam/Wulna/Content/Maps/TestingMapAI_BuiltData.uasset
+[2017.01.22-02.06.06:955][381]LogTexture:Display: Building textures: bush (BGRA8)
+[2017.01.22-02.06.06:961][381]LogMaterial: Missing cached shader map for material bush, compiling. 
+[2017.01.22-02.06.07:301][382]LogMaterial:Warning: Material /Game/Materials/bush.bush needed to have new flag set bUsedWithStaticLighting !
+[2017.01.22-02.06.07:314][382]LogMaterial: Missing cached shader map for material bush, compiling. 
+[2017.01.22-02.06.07:369][382]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.22-02.06.07:784][383]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2017.01.22-02.06.20:104][383]LogCrashTracker: 
+
+

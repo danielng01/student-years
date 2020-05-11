@@ -1,0 +1,6 @@
+@echo off
+REM ////////////////////////////////////////////////////////
+
+git add --all
+git commit -m "Update"
+git push origin HEAD:master
